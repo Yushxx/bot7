@@ -33,10 +33,10 @@ ${sequenceTemplate}
 1.54:${generate_sequence()}
 1.23:${generate_sequence()}
 
-🚨 *Attention* the signals only work on [linebet](https://bit.ly/3v6rgFc) with the promo code *xvbet* ✅️!
+🚨 *Attention* the signals only work on [1xbet](https://bit.ly/3v6rgFc) and linebet with the promo code *Free221* ✅️!
 
 
-[Register on linebet](https://bit.ly/3v6rgFc)
+[Register on linebet](https://bit.ly/3NJ4vy0)
 
 `;
 
@@ -44,8 +44,8 @@ ${sequenceTemplate}
     const inlineKeyboard = {
         inline_keyboard: [
             [
-                { text: 'Download linebet ',url: 'https://lb-aff.com//L?tag=d_2110069m_34671c_&site=2110069&ad=34671' },
-                { text: 'How to play', url: 'https://t.me/c/2035790146/1834' }
+                { text: 'register  ',url: 'https://bit.ly/3NJ4vy0' },
+                { text: 'How to play', url: 'https://t.me/gbapple/2033' }
             ]
         ]
     };
