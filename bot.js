@@ -36,7 +36,7 @@ ${sequenceTemplate}
 🚨 *Attention* the signals only work on [1xbet](https://bit.ly/3v6rgFc) and linebet with the promo code *Free221* ✅️!
 
 
-[Register on linebet](https://bit.ly/3NJ4vy0)
+[Register on linebet](https://bit.ly/3v6rgFc)
 
 `;
 
