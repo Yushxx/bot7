@@ -33,7 +33,7 @@ ${sequenceTemplate}
 1.54:${generate_sequence()}
 1.23:${generate_sequence()}
 
-🚨 *Attention* the signals only work on [1xbet](https://bit.ly/3v6rgFc) and linebet with the promo code *Free221* ✅️!
+🚨 *Attention* the signals only work on LINEBET and MELBET with the promo code *ZFree221* ✅️!
 
 
 [Register on linebet](https://bit.ly/3v6rgFc)
@@ -44,7 +44,7 @@ ${sequenceTemplate}
     const inlineKeyboard = {
         inline_keyboard: [
             [
-                { text: 'register  ',url: 'https://bit.ly/3NJ4vy0' },
+                { text: 'register  ',url: 'https://bit.ly/3Wk9323' },
                 { text: 'How to play', url: 'https://t.me/gbapple/2033' }
             ]
         ]
